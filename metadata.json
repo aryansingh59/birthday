@@ -1,0 +1,6 @@
+{
+  "name": "Rita's Birthday Wish",
+  "description": "A beautiful birthday wish for Rita on August 7th",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
